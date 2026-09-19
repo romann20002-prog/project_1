@@ -34,6 +34,11 @@
 
 /* перша секція */
 
+.button_a {
+    text-decoration: none;
+    color: white;
+}
+
 .section-1 {
     width: 100%;
     align-items: center;
